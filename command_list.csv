@@ -1,0 +1,128 @@
+    1  man ls
+    2  clear
+    3  git config--global user.name 
+    4  clear
+    5  git config --global user.name "Lera Lera"
+    6  git config--global user.email ksavchenkok@hotmail.com
+    7  сдуфк
+    8  clear
+    9  git config --global user.name "Lera Lera"
+   10  git config --global user.email ksavchenkok@hotmail.com
+   11  clear
+   12  Катя Go it CCC % git config --global user.name "Lera Lera"
+   13  clear
+   14  CCC % git config --global user.name "Lera Lera"~
+   15  CLEAR
+   16  CCC git config --global user.name "Lera Lera"
+   17  clear
+   18  Desktop % cd CC
+   19  Desktop; Katya; Go it; CCC
+   20  Desctop
+   21  Desktop CCC
+   22  cd Desktop
+   23  clear
+   24  Desktop $ cd CCC
+   25  clear
+   26  Desktop % cd CCC
+   27  clear
+   28  C:\Users\User\Desktop\Git> config --global user.name "Lera Lera"
+   29  Desktop\Git> config --global user.name "Lera Lera"
+   30  cd Desktop
+   31  User@DESKTOP-05SKKHN MINGW64 ~/Desktop
+   32  $ cd Git
+   33  User@DESKTOP-05SKKHN MINGW64 ~/Desktop/Git
+   34  $ git config --global user.name "Lera Lera"
+   35  User@DESKTOP-05SKKHN MINGW64 ~/Desktop/Git
+   36  $ git config --global user.email ksavchenkok@hotmail.com
+   37  User@DESKTOP-05SKKHN MINGW64 ~/Desktop/Git
+   38  $ git clone https://github.com/ksavchenkok/HW_10.git
+   39  cd Desktop
+   40  cd Git
+   41  git config --global user.name "Lera Lera"
+   42  git config --global user.email ksavchenkok@hotmail.com
+   43  git clone https://github.com/ksavchenkok/HW_10.git
+   44  q
+   45  help
+   46  clear
+   47  cd
+   48  [200~Desktop/
+   49  cd
+   50  clear
+   51  q
+   52  clear
+   53  ls
+   54  clear
+   55  cd Desktop
+   56  cd Git
+   57  [200~git config --global user.name "Lera Lera"~
+   58   ..
+   59  clear
+   60  git config --global user.name "Lera Lera"
+   61  git config --global user.email ksavchenkok@hotmail.com
+   62  git clone https://github.com/ksavchenkok/HW_10.git
+   63  git status
+   64  cd HW_10
+   65  [200~
+   66   cd Git
+   67  clear
+   68  cd Desktop
+   69  cd Git
+   70  git config --global user.name "Lera Lera"
+   71  git config --global user.email ksavchenkok@hotmail.com
+   72  git clone https://github.com/ksavchenkok/HW_10.git
+   73  git status
+   74  cd HW_10
+   75  touch text_ignore.txt
+   76  notepad.gitignore
+   77  vim .gitignore
+   78  cd Desktop
+   79  cd Git
+   80  git config --global user.name "Lera Lera"
+   81  git config --global user.email ksavchenkok@hotmail.com
+   82  nano.gitignore
+   83  win.gitignore
+   84  clear
+   85  vim .gitignore
+   86  nano .gitignore
+   87  nano .gitignore
+   88  cd Desktop
+   89  cd Git
+   90  git config --global user.name "Lera Lera"
+   91  git config --global user.email ksavchenkok@hotmail.com
+   92  git clone https://github.com/ksavchenkok/HW_10.git
+   93  cd HW_10
+   94  touch text_ignore.txt
+   95  nano .gitignore
+   96  git status
+   97  git add
+   98  commit
+   99  git commit
+  100  touch main_test.txt
+  101  git add
+  102  git commit
+  103  git commit main_test.txt
+  104  commit main_test.txt
+  105  git add [main_test.txt]
+  106  git add main_test.txt
+  107  git status
+  108  git commit -m "New file created"
+  109  git checkout -b develop
+  110  git checkout develop
+  111  touch develop_test.txt
+  112  git add develop_test.txt
+  113  get commit -m "New file created"
+  114  git commit -m "New file created"
+  115  nano develop_test.txt
+  116  git status
+  117  git add develop_test.txt
+  118  git commit -m "New file is created"
+  119  git checkout main
+  120  git merge develop
+  121  git branch
+  122  git status
+  123  git log
+  124  git commit -m "New modified"
+  125  git push
+  126  command_list.csv
+  127  git command_list.csv
+  128  history > command_list.csv
